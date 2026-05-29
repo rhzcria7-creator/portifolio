@@ -1,0 +1,6 @@
+{
+  "name": "Rhian Augusto Portfolio",
+  "description": "A premium, animated digital portfolio for Rhian Augusto Reis Lopes, featuring multi-page routing and WebGL visual effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
